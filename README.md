@@ -1,10 +1,10 @@
 run 
 
-'''
+```
 go run cmd/main.go 
-'''
+```
 
-###Endpoint
+### Endpoint
 - /total-customers : Returns the total number of customers
 - /total-orders : Returns the total number of orders
 - /average-order-value : Returns the average order value
